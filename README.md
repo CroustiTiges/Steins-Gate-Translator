@@ -3,7 +3,7 @@ Steins Gate Translator is an easy-to-use executable software that allows you to 
 
 <img width="1080" height="512" alt="sgbanner" src="https://github.com/user-attachments/assets/dd4909f8-52c1-4557-91cf-e57f6cc392f8" />
 
-# Steins Gate Translator - Translation Guide
+# Steins;Gate Translator - Translation Guide
 
 ## 1. Retrieve the Original MPK File
 - Go to the `Steins Gate` folder and copy the `script.mpk` file into the `dialogues/MPK original` folder.
