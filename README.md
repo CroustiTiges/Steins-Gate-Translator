@@ -41,9 +41,10 @@ If you prefer not to read, a video tutorial named `TUTO.MP4` is included in the 
 
 ## 7. Useful Information and Warnings
 - Please maintain the line breaks in the `.txt` files to avoid any issues after compilation.
-- Avoid using special characters such as "é, à, ô, û, ..." as they may cause the game to crash.
+- Avoid using special characters such as "é, à, ô, û, «, », ..." as they may cause the game to crash.
 - Opening a `.txt` file may take some time because the software highlights all tags in bold to make translation easier.
 - The software may receive updates. When using the latest version, simply move all your `scx` and `txt` folders to the new version.
+- All in-game text can be translated, but please note that images (which are few) are not translated using this software.
 
 ## 8. Credits and Sources
 - sg-unpack: https://github.com/rdavisau/sg-unpack (For SCX to TXT decompilation and vice versa)
