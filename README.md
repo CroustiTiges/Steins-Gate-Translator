@@ -45,6 +45,7 @@ If you prefer not to read, a video tutorial named `TUTO.MP4` is included in the 
 - Opening a `.txt` file may take some time because the software highlights all tags in bold to make translation easier.
 - The software may receive updates. When using the latest version, simply move all your `scx` and `txt` folders to the new version.
 - All in-game text can be translated, but please note that images (which are few) are not translated using this software.
+- I do not provide any original game files. Please purchase a legal copy of the game in order to translate it.
 
 ## 8. Credits and Sources
 - sg-unpack: https://github.com/rdavisau/sg-unpack (For SCX to TXT decompilation and vice versa)
