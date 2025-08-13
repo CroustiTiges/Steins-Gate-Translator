@@ -1,6 +1,8 @@
 # Steins Gate Translator
 Steins Gate Translator is an easy-to-use executable software that allows you to translate the game into any language via English. The game is required to use the files.
 
+<img width="1080" height="512" alt="Sans titre-1" src="https://github.com/user-attachments/assets/77b65c00-f325-42bf-a7ec-210f2a85569c" />
+
 # Steins Gate Translator - Translation Guide
 
 ## 1. Retrieve the Original MPK File
