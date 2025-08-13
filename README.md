@@ -37,5 +37,5 @@ Steins Gate Translator is an easy-to-use executable software that allows you to 
 - *El Psy Kongroo.*
 
 ## 7. Credits and Sources
-- sg-unpack: https://github.com/rdavisau/sg-unpack
-- SGOMPK MagesPack: https://github.com/DanOl98/MagesPack
+- sg-unpack: https://github.com/rdavisau/sg-unpack (For SCX to TXT decompilation and vice versa)
+- SGOMPK MagesPack: https://github.com/DanOl98/MagesPack (For MPK to SCX decompilation and vice versa)
