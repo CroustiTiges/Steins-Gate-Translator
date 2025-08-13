@@ -1,0 +1,10 @@
+C:\Users\youce\source\repos\Steins Gate Translator\bin\Debug\Steins Gate Translator.exe.config
+C:\Users\youce\source\repos\Steins Gate Translator\bin\Debug\Steins Gate Translator.exe
+C:\Users\youce\source\repos\Steins Gate Translator\bin\Debug\Steins Gate Translator.pdb
+C:\Users\youce\source\repos\Steins Gate Translator\obj\Debug\Steins Gate Translator.csproj.AssemblyReference.cache
+C:\Users\youce\source\repos\Steins Gate Translator\obj\Debug\Steins_Gate_Translator.Properties.Resources.resources
+C:\Users\youce\source\repos\Steins Gate Translator\obj\Debug\Steins Gate Translator.csproj.GenerateResource.cache
+C:\Users\youce\source\repos\Steins Gate Translator\obj\Debug\Steins Gate Translator.csproj.CoreCompileInputs.cache
+C:\Users\youce\source\repos\Steins Gate Translator\obj\Debug\Steins Gate Translator.exe
+C:\Users\youce\source\repos\Steins Gate Translator\obj\Debug\Steins Gate Translator.pdb
+C:\Users\youce\source\repos\Steins Gate Translator\obj\Debug\Steins_Gate_Translator.Form1.resources
