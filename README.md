@@ -33,3 +33,7 @@ Steins Gate Translator est logiciel executable simple à prendre en main pour po
 ## 6. Finalisation
 - Votre traduction est prête. Bon jeu !  
 - *El Psy Kongroo.*
+
+## 7. Remerciement et sources
+- sg-unpack : https://github.com/rdavisau/sg-unpack
+- SGOMPK MagesPack : https://github.com/DanOl98/MagesPack
