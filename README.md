@@ -16,8 +16,6 @@ Steins Gate Translator est logiciel executable simple à prendre en main pour po
 ## 3. Conversion des fichiers SCX en TXT
 - Ouvrez le dossier `dialogues` et exécutez le fichier `SCX to TXT.bat`.
   - Un terminal s’ouvrira brièvement puis se fermera automatiquement.
-- Rendez-vous dans le dossier `scx original` et copiez tous les fichiers du sous-dossier `txt` dans `dialogues/script`.
-- Supprimez le dossier `txt` situé dans `dialogues/scx original`.
 
 ## 4. Traduction
 - Lancez **Steins Gate Translator** pour effectuer votre traduction.
