@@ -36,6 +36,12 @@ Steins Gate Translator is an easy-to-use executable software that allows you to 
 - Your translation is ready. Enjoy the game!  
 - *El Psy Kongroo.*
 
-## 7. Credits and Sources
+## 7. Useful Information and Warnings
+- Please maintain the line breaks in the `.txt` files to avoid any issues after compilation.
+- Avoid using special characters such as "é, à, ô, û, ..." as they may cause the game to crash.
+- Opening a `.txt` file may take some time because the software highlights all tags in bold to make translation easier.
+- The software may receive updates. When using the latest version, simply move all your `scx` and `txt` folders to the new version.
+
+## 8. Credits and Sources
 - sg-unpack: https://github.com/rdavisau/sg-unpack (For SCX to TXT decompilation and vice versa)
 - SGOMPK MagesPack: https://github.com/DanOl98/MagesPack (For MPK to SCX decompilation and vice versa)
