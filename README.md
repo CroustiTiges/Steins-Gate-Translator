@@ -48,3 +48,6 @@ If you prefer not to read, a video tutorial named `TUTO.MP4` is included in the 
 ## 8. Credits and Sources
 - sg-unpack: https://github.com/rdavisau/sg-unpack (For SCX to TXT decompilation and vice versa)
 - SGOMPK MagesPack: https://github.com/DanOl98/MagesPack (For MPK to SCX decompilation and vice versa)
+
+
+<img width="1261" height="710" alt="image" src="https://github.com/user-attachments/assets/caf020da-7539-4b49-82c1-a738d9826fc1" />
