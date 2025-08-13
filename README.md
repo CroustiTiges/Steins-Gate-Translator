@@ -5,6 +5,9 @@ Steins Gate Translator is an easy-to-use executable software that allows you to 
 
 # Steins;Gate Translator - Translation Guide
 
+## 0. Quick Start
+If you don’t feel like reading, a video tutorial named `TUTO.MP4` is included in the `.zip` file! Otherwise, enjoy reading the guide.
+
 ## 1. Retrieve the Original MPK File
 - Go to the `Steins Gate` folder and copy the `script.mpk` file into the `dialogues/MPK original` folder.
 
