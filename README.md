@@ -6,7 +6,7 @@ Steins Gate Translator is an easy-to-use executable software that allows you to 
 # Steins;Gate Translator - Translation Guide
 
 ## 0. Quick Start
-- Download [Steins Gate Translator](https://github.com/CroustiTiges/Steins-Gate-Translator/releases/tag/first).
+- Download [SteinsGateTranslator.zip](https://github.com/CroustiTiges/Steins-Gate-Translator/releases/tag/first).
 - If you prefer not to read, a video tutorial named `TUTO.MP4` is included in the zip folder! Otherwise, enjoy reading the guide.
 
 ## 1. Retrieve the Original MPK File
