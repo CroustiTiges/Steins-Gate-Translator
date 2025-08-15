@@ -43,7 +43,7 @@ Steins Gate Translator is an easy-to-use executable software that allows you to 
 ## 7. Useful Information and Warnings
 - Please maintain the line breaks in the `.txt` files to avoid any issues after compilation.
 - Avoid using special characters such as "é, à, ô, û, «, », ..." as they may cause the game to crash.
-- Opening a `.txt` file may take some time because the software highlights all tags in bold to make translation easier.
+- Opening a “.txt” file may take some time because the software highlights all tags in bold to make translation easier. This option can be disabled by unchecking the "drawing" box.
 - The software may receive updates. When using the latest version, simply move all your `scx` and `txt` folders to the new version.
 - All in-game text can be translated, but please note that images (which are few) are not translated using this software.
 - I do not provide any original game files. Please purchase a legal copy of the game in order to translate it.
